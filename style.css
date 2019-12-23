@@ -71,6 +71,9 @@ article a {
     margin-left: 280px;
     padding: 10px;
 }
+#boeing_787 li {
+    display: none;
+}
 
 #military {
     border-bottom: 2px black solid;
